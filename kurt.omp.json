@@ -15,6 +15,7 @@
             "cache_duration": "none"
           },
           "leading_diamond": "\u251c\u2500\ue0b6",
+          "_template": "\u9bab\u3068\u732b",
           "template": "\u9bab",
           "foreground": "#222222",
           "background": "#c7a55c",
